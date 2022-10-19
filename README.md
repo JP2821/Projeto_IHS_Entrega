@@ -11,7 +11,7 @@ Projeto de IHS
 
 ## Instruções 
 Dentro da pasta **PROJETO VERSÃO FINAL** encotra-se tanto o drive pci, quanto o projeto do jogo em si
-
+link para o drive com os arquivos(https://drive.google.com/drive/folders/1zcMRS-dxppTr7wpYZdWcVGI-OBZ11paf?usp=sharing)
 ### Como acessar o jogo
 
 * cd examples
